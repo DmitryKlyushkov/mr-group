@@ -17,7 +17,8 @@
     "noUncheckedIndexedAccess": true,
     "baseUrl": ".",
     "paths": {
-      "@/scss/*": ["src/scss/*"]
+      "@/scss/*": ["src/scss/*"],
+      "@/components/*": ["src/components/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "**/*.cjs", "**/*.mjs"],
